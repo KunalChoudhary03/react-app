@@ -1,5 +1,5 @@
 {
-  "homepage": "https://KunalChoudhary03.github.io/Lost-Found",
+  "homepage": "https://KunalChoudhary03.github.io/react-app",
   "name": "routing",
   "private": true,
   "version": "0.0.0",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+   "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
